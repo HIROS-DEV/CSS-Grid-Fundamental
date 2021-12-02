@@ -4,10 +4,10 @@
 
 ## ScreenShot of the project
 
-For Desktop
+##For Desktop
 <img src="images/desktop.png"/>
 
-For mobile
+##For mobile
 <img src="images/phone.png"/>
 
 
