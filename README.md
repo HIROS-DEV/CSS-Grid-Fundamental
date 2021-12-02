@@ -1,4 +1,4 @@
-# CSS-Grid-Fundamental
+# Responsive-Grid
 
 <h4>CreatedAt:2th Dec 2021</h4> 
 
@@ -13,26 +13,30 @@
 
 ## Detail of the project
 
-This is CSS Grid Fundamental Course in Youtube.
+This is CSS Grid Web Design Course in Youtube.
+(Net Ninja's video is always awesome, by the way. 
+ So if you don't know his channel, you should definitely check)
 
-https://www.youtube.com/watch?v=moBhzSC455o
+https://www.youtube.com/watch?v=x7tLPhnA06w
 
 ## Purpose of the project
 
-Create Web Layout with Grid CSS
+Get the knowledge of CSS Grid Fundamentals
 
 ## Demo
 
-https://hiros-dev.github.io/Responsive-Grid/
+https://hiros-dev.github.io/CSS-Grid-Fundamental/
 
 
 ## What did I learn from this project?
 
-<p>How to use CSS Root(From now, I think I should use it always.Because, css file is more clean)</p>
+<p>How to use CSS Grid</p>
 <p>How to design Simple Web Layout</p>
 <p>How to design Responsive Layout with CSS Grid</p>
 
-I am junior developer and my css file is tend to messy.
-I should learn more clean code.(But it will take long time...)
+I already learned React and Sever side fundamentals(Node.js / Epress etc etc...)
+But, CSS grid is not easy for me.
+So, I think I should create some web pages with css grid in the future.
+Of course, I will try!!!
 
 Thank you for reading. And, happy coding!!!
